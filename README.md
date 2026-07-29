@@ -8,3 +8,5 @@ Early PD Speech: https://media.springernature.com/original/springer-static/esm/a
 PhysioNet PD Gait: https://physionet.org/content/gaitpdb/1.0.0/
 Mendeley PD Voice: https://data.mendeley.com/datasets/fjd6fcfkwn/1
 CASAS Dementia SmartHome: https://doi.org/10.5281/zenodo.15713579
+
+The private AD eyemovement dataset and private AD gait dataset are not publicly available because of participant privacy and institutional data-use restrictions. Access may be granted by the data owner upon reasonable request and subject to the required institutional approval.
